@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OrganizadorUltradia</string>
+    <string name="Prueba">Prueba</string>
+    <string name="Iniciar">Iniciar</string>
+    <string name="Regis">Registrar actividades</string>
+    <string name="vis">Visualizar horario</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Regresar">Regresar</string>
+    <string name="Duracion">Duracion</string>
+    <string name="IngresarAct">Ingresar Actividad</string>
+    <string name="DES">Descripcion de la actividad</string>
+    <string name="Email">Correo</string>
+    <string name="Password">Contraseña</string>
+    <string name="PasswordRepit">Confirmar contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="formato_fecha">dd/mm/yyyy</string>
+    <string name="formato_hora">hh:mm</string>
+    <string name="title_activity_add_new_photo">AddNewPhoto</string>
+    <string name="photo_source">foto</string>
+    <string name="camera">Camara</string>
+    <string name="gallery">Galeria</string>
+    <string-array name="Categoria">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
